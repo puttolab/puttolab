@@ -60,8 +60,8 @@ Every subsystem is forged in harmony—from photonic illumination to untethered 
 ## 🌐 Enter the Sanctuary
 
 * **🏛️ Official Portal & Live Telemetry:** [puttolab.com](https://puttolab.com)
-* **🎥 Optical & Hardware Lab Demos:** [YouTube • @PuttoLab](https://youtube.com)
-* **📜 Scientific Notes & Publications:** [LinkedIn • Mohamed Elhawy](https://linkedin.com) 
+* **🎥 Optical & Hardware Lab Demos:** [YouTube • @PuttoLab](https://youtube.com/@PuttoLab)
+* **📜 Scientific Notes & Publications:** [LinkedIn • Mohamed Elhawy](https://linkedin.com/in/mohamedelhawy) 
 
 ---
 
