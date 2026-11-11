@@ -29,10 +29,10 @@ Every subsystem is forged in harmony—from photonic illumination to untethered 
 
 | Subsystem Architecture | Integration Milestone | Current Status |
 | :--- | :--- | :--- |
-| **◈ Diffractive Waveguide** | `████████████████████` **33%** | **Architecting** — Precision light-guiding gratings locked. |
+| **◈ Diffractive Waveguide** | `███████░░░░░░░░░░░░░` **33%** | **Architecting** — Precision light-guiding gratings locked. |
 | **✦ MicroLED Display** | `███████░░░░░░░░░░░░░` **33%** | **Architecting** — High-nits luminance for daylight brilliance. |
-| **◎ Spatial Engine** | `███░░░░░░░░░░░░░░░░░` **33%** | **Architecting** — Real-time 6-DoF spatial perception & rendering. |
-| **⚡ Untethered Power** | `░░░░░░░░░░░░░░░░░░░░` **33%** | **Architecting** — Distributed temple power & passive thermal balance. |
+| **◎ Spatial Engine** | `███████░░░░░░░░░░░░░` **33%** | **Architecting** — Real-time 6-DoF spatial perception & rendering. |
+| **⚡ Untethered Power** | `███████░░░░░░░░░░░░░` **33%** | **Architecting** — Distributed temple power & passive thermal balance. |
 
 ```text
   [ ◈ Diffractive Waveguide ] ──► [ ✦ MicroLED Display ] ──► [ ◎ Spatial Engine ] ──► [ ⚡ Untethered Power ]
