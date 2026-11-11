@@ -6,9 +6,9 @@
 > *"Artis et Technologiae Divina Concordia"*  
 > **Where golden light meets microscopic optical physics.**
 
-* **🏛️ Official Portal & Live Telemetry:** [puttolab.com](https://puttolab.com)
-* **🎥 Optical & Hardware Lab Demos:** [YouTube • @PuttoLab](https://youtube.com)
-* **📜 Scientific Notes & Publications:** [LinkedIn • Mohamed Elhawy](https://linkedin.com) 
+**🏛️ Official Portal & Live Telemetry:** [puttolab.com](https://puttolab.com)
+**🎥 Optical & Hardware Lab Demos:** [YouTube • @PuttoLab](https://youtube.com)
+**📜 Scientific Notes & Publications:** [LinkedIn • Mohamed Elhawy](https://linkedin.com) 
 
 </div>
 
