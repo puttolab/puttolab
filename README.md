@@ -36,7 +36,7 @@ Every subsystem is forged in harmony—from photonic illumination to untethered 
 
 ```text
   [ ◈ Diffractive Waveguide ] ──► [ ✦ MicroLED Display ] ──► [ ◎ Spatial Engine ] ──► [ ⚡ Untethered Power ]
-        ( 33% Integrated )             ( 33% Integrated )           ( 33% Integrated )                 ( 33% Integrated )
+        ( 33% Integrated )           ( 33% Integrated )         ( 33% Integrated )         ( 33% Integrated )
 ```
 
 ---
