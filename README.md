@@ -11,7 +11,7 @@ PuttoLab is actively engineering the foundational architecture required for **fu
 
 ```
 [ MicroLED Optics ] ──► [ Waveguide Engine ] ──► [ Spatial Sensor Fusion ] ──► [ Untethered Power & Thermal ]
-     (100% Calibrated)       (Active Layout)         (33% In Progress)            (All-Day Standalone)
+     (33% In Progress)       (33% In Progress)         (33% In Progress)            (33% In Progress)
 ```
 
 ---
@@ -33,8 +33,8 @@ PuttoLab is actively engineering the foundational architecture required for **fu
 
 ### 🌐 Connect & Explore
 *   **Official Website:** [puttolab.com](https://puttolab.com)
-*   **Lab Demos:** [YouTube Channel](https://youtube.com)
-*   **Professional Research:** [LinkedIn Profile](https://linkedin.com)
+*   **Lab Demos:** [YouTube Channel](https://youtube.com/@PuttoLab)
+*   **Professional Research:** [LinkedIn Profile](https://linkedin.com/in/mohamedelhawy)
 
 ---
 
